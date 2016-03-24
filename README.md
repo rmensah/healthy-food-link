@@ -37,6 +37,6 @@ NodeJs
 #Deployed Link: (Heroku here)
 
 # MEET THE DEVELOPERS
-Alejandra Jurado
-Jean Carlos Henriquez
-Richard Mensah
+Alejandra Jurado | Jean Carlos Henriquez | Richard Mensah
+
+
